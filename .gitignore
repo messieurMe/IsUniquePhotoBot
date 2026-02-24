@@ -1,0 +1,4 @@
+/photos/*
+/db/*
+/.env
+/.ide
